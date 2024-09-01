@@ -15,7 +15,7 @@ public class Chooses extends Student {
         super(name, estimates);
     }
 
-
+//
     public void selectC(){
 
 
